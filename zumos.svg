@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #211915;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Capa_2-2" data-name="Capa 2">
+    <image width="64" height="64" xlink:href="../../../Downloads/zumos.png"/>
+    <polyline class="cls-1" points="41.87 60.06 47.02 54.76 52.23 60.06"/>
+    <rect class="cls-1" x="16.64" y="3" width="30.38" height="6" rx="1.44" ry="1.44"/>
+    <path class="cls-1" d="m46.75,9l5.5,10.23-5.5-10.23Z"/>
+  </g>
+  <g id="Capa_4" data-name="Capa 4">
+    <path class="cls-1" d="m51.17,60.99H12.65c-1,0-1.81-.81-1.81-1.81V20.66c0-1,.81-1.81,1.81-1.81h38.51c1,0,1.81.81,1.81,1.81v38.51c0,1-.81,1.81-1.81,1.81Z"/>
+    <line class="cls-1" x1="41.11" y1="18.85" x2="41.11" y2="60.59"/>
+    <line class="cls-1" x1="47.02" y1="18.41" x2="47.02" y2="55.12"/>
+    <line class="cls-1" x1="10.3" y1="27.81" x2="40.4" y2="27.99"/>
+    <line class="cls-1" x1="11.01" y1="51.84" x2="41.11" y2="52.02"/>
+    <circle class="cls-1" cx="26.02" cy="42.17" r="5.98"/>
+    <path class="cls-1" d="m27.12,36.18s5.65.1,5.38-4.62c0,0-3.35-.5-5.38,4.62Z"/>
+    <line class="cls-1" x1="41.11" y1="18.41" x2="46.34" y2="9.24"/>
+    <line class="cls-1" x1="12.4" y1="19" x2="17.51" y2="8.64"/>
+  </g>
+</svg>
